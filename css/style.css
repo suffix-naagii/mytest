@@ -26,11 +26,6 @@ body {
 	margin: 0;
 	padding: 0;
 }
-#nav ul li {
-	float: left;
-	padding: 5px 10px;
-	border-top: 2px solid #bbb;
-}
 #nav ul li:hover, #nav ul li:hover a {
 	border-color: #FF2223;
 	color: #FF2223;
